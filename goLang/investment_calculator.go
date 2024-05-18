@@ -48,9 +48,10 @@ func main() {
 	// futureValue4 := investmentAmount4 * math.Pow(1+expectedReturnRate4/100, years4)
 	// fmt.Print("Future Value: ", futureValue4)
 	//end region-------------------------------------------------------------------------------------------------------------------------
-// profitCalculator()
-printString("hello","hello2");
+	profitCalculator()
+	printString("hello", "hello2")
+	function()
 }
 func printString(text1, text2 string) {
-    fmt.Printf("text1: %s\ntext2: %s\n", text1, text2)
+	fmt.Printf("text1: %s\ntext2: %s\n", text1, text2)
 }
